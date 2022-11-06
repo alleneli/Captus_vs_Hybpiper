@@ -13,6 +13,6 @@ As our ability to process high throughput data and the field of systematics grow
 
 [Captus](https://github.com/edgardomortiz/Captus) Edgardo Mortiz
 
-[HybPiper](https://github.com/mossmatters/HybPiper) Matt Jphnson et al.
+[HybPiper](https://github.com/mossmatters/HybPiper) Matt Johnson et al.
 
 [Full *Costus* dataset](https://www.ncbi.nlm.nih.gov/bioproject?LinkName=biosample_bioproject&from_uid=13811721) GenBank, Vargas et al. 
